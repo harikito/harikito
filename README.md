@@ -1,12 +1,33 @@
-## Hi/Salem 👋
+# Hi/Salem, I'm Ramazan!
 
-### Junior Developer
+### Junior Backend Developer | IT Product Enthusiast
 
-**Tech Stack:**
-  Python, C++, C# (basics)
-  HTML/CSS/JS, PHP (basics)
-  MySQL, Pseudocode
+I'm a developer from Kazakhstan, currently focusing on backend development, B2B automation, and Telegram bots. I enjoy building systems from scratch—from database architecture to the final user interface.
 
-**Contacts:**
-  telegram: @rixoq
-  instagram: @har1k1to
+**A bit about me:**
+- Graduate of NIS (Nazarbayev Intellectual Schools).
+- Passionate about B2B SaaS, EdTech, and Product Management.
+
+---
+
+### Tech Stack & Tools
+
+*   **Languages:** Python, C++, JavaScript (HTML/CSS), C# & PHP (basics)
+*   **Backend & Databases:** FastAPI, MySQL, PostgreSQL, Supabase
+*   **Frameworks & Mobile:** React Native, aiogram (Telegram Bots)
+*   **Tools:** Git, Cursor, API Integration
+
+---
+
+### What I'm currently working on
+
+*   **BASPA:** Developing a Telegram bot for automated Steam account activations using Python, aiogram, and Supabase.
+
+---
+
+### Let's Connect!
+
+*   **Telegram:** [@rixoq](https://t.me/rixoq)
+*   **Instagram:** [@har1k1to](https://instagram.com/har1k1to)
+*   **LinkedIn:** [Ramazan Yerubay](https://linkedin.com/in/your-profile)
+*   **Astana Hub:** [Profile](https://astanahub.com/ru/l/ramazan-yerubay)
