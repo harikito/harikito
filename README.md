@@ -1,33 +1,21 @@
-# Hi/Salem, I'm Ramazan! 👋
+# 💫 About Me:
+🚀 Junior Backend Developer | IT Product Enthusiast<br>I'm a developer from Kazakhstan, currently focusing on backend development, B2B automation, and Telegram bots. I enjoy building systems from scratch—from database architecture to the final user interface.<br><br>🌱 A bit about me:<br><br>🎓 Graduate of NIS (Nazarbayev Intellectual Schools).<br>💡 Passionate about B2B SaaS, EdTech, and Product Management.<br><br>BASPA: Developing a Telegram bot for automated Steam account activations using Python, aiogram, and Supabase.
 
-### 🚀 Junior Backend Developer | IT Product Enthusiast
 
-I'm a developer from Kazakhstan, currently focusing on backend development, B2B automation, and Telegram bots. I enjoy building systems from scratch—from database architecture to the final user interface.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/har1k1to) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramazan-yerubay) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@har1kito) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:romamajkenov@gmail.com) 
 
-**🌱 A bit about me:**
-- 🎓 Graduate of NIS (Nazarbayev Intellectual Schools).
-- 💡 Passionate about B2B SaaS, EdTech, and Product Management.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=harikito&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=harikito&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=harikito&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-### 🛠️ Tech Stack & Tools
-
-*   **Languages:** Python, C++, JavaScript (HTML/CSS), C# & PHP (basics)
-*   **Backend & Databases:** FastAPI, MySQL, PostgreSQL, Supabase
-*   **Frameworks & Mobile:** React Native, aiogram (Telegram Bots)
-*   **Tools:** Git, Cursor, API Integration
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
+[![](https://komarev.com/ghpvc/?username=harikito&icon=0&color=13)](https://visitcount.itsvg.in)
 
-### 🔭 What I'm currently working on
-
-*   **BASPA:** Developing a Telegram bot for automated Steam account activations using Python, aiogram, and Supabase.
-
----
-
-### 📫 Let's Connect!
-
-*   💬 **Telegram:** [@rixoq](https://t.me/rixoq)
-*   📸 **Instagram:** [@har1k1to](https://instagram.com/har1k1to)
-*   💼 **LinkedIn:** [Ramazan Yerubay](www.linkedin.com/in/ramazan-yerubay-2912583a2)
-*   🚀 **Astana Hub:** [Profile]([https://astanahub.com/ru/l/ramazan-yerubay](https://astanahub.com/account/v2/user/846913/profile/activity/))
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
